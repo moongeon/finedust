@@ -7,9 +7,9 @@ FineDust 앱은 현재위치기준 가장 가까운 관측소에서 얻은 미�
 
 변경 내용
 ------------
-mvc  --> mvvm
-Koin --> Dagger hilt
-ViewBinding --> DataBinding
+* mvc  --> mvvm
+* Koin --> Dagger hilt
+* VewBinding --> DataBinding
 
 🙌소개
 ------------
