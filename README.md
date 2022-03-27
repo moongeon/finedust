@@ -31,6 +31,8 @@ ViewBinding --> DataBinding
     * ViewModel : 앱 회전 시 소멸되지 않는 UI 관련 데이터를 저장 합니다. 
 * Coroutine : 비동기 작업들의 코드를 간소화하고 메모리 릭을 줄이기 위해 사용합니다. 
 * Dagger hilt : 의존성 주입 라이브러리
+* Retrofit2 : API 통신을 위해 구현된 OkHTTP의 HTTP 통신을 간편하게 만들어주는 라이브러리
+* LocationManager : 시스템 위치 서비스에 대한 액세스를 제공받을 수 있습니다.(위치 권한 허용이 필요)
 
 
 ## ⚠️ 주의사항
